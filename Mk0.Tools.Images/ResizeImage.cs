@@ -9,7 +9,7 @@ using System.Drawing.Imaging;
 
 namespace Mk0.Tools.Images
 {
-    public class Resize
+    public class Resizer
     {
         public static Bitmap ResizeImage(Image image, int width, int height)
         {

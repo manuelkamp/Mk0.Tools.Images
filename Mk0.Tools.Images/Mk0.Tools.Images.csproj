@@ -39,6 +39,7 @@
   <ItemGroup>
     <Compile Include="BorderCropper.cs" />
     <Compile Include="GetCopyImage.cs" />
+    <Compile Include="GetImageFormat.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ResizeImage.cs" />
     <Compile Include="Resolution.cs" />
